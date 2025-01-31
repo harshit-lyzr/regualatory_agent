@@ -1,0 +1,3 @@
+supabase
+datetime
+python-dotenv
